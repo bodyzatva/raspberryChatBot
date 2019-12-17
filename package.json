@@ -1,0 +1,17 @@
+{
+  "name": "nodechat",
+  "version": "1.0.0",
+  "description": "Chatbot cliente nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botframework-directlinejs": "^0.11.6",
+    "express": "^4.17.1",
+    "ws": "^7.2.1",
+    "xhr2": "^0.2.0"
+  }
+}
